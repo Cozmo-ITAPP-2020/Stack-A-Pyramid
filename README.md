@@ -1,5 +1,6 @@
 # Stack-a-Pyramid
-This file codes is created by Mei Tian
+This file codes is created by Mei Tian.
+
 When Cube 1 is visible, Cozmo will dock and lift it.  
 After that, it will continue to turn 15 degrees until Cube 2 is seen.  
 When Cube 2 is visible, Cozmo will place Cube 1 next to Cube 2.   
